@@ -15,7 +15,7 @@ const TestimonialsSection = () => {
         {
             id: 3,
             quote: "Ready to elevate your digital brand?  learn how our comprehensive digital marketing services can help your business thrive in the online landscape. Partner with us for strategic guidance, operational excellence, and a dedicated team that’s invested in your success.",
-            title: "TeamworksDigital",
+            title: "Teamworks Digital",
         },
     ];
 
